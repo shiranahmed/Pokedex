@@ -42,6 +42,7 @@ class MainActivity : ComponentActivity() {
                                 type = NavType.StringType
                             },
 
+
                         )
                         ){
                         val dominantcolor = remember {
